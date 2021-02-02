@@ -1,0 +1,2 @@
+C:\Users\Tomek\source\repos\beufort\Debug\beufort.exe
+C:\Users\Tomek\source\repos\beufort\Debug\beufort.pdb

@@ -1,0 +1,3 @@
+﻿  beufort.cpp
+C:\Users\Tomek\source\repos\beufort\beufort.cpp(8,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  beufort.vcxproj -> C:\Users\Tomek\source\repos\beufort\Debug\beufort.exe

@@ -1,0 +1,4 @@
+﻿  bacon.cpp
+C:\Users\Tomek\source\repos\bacon\bacon.cpp(18,16): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Tomek\source\repos\bacon\bacon.cpp(31,16): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  bacon.vcxproj -> C:\Users\Tomek\source\repos\bacon\Debug\bacon.exe

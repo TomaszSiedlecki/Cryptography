@@ -1,0 +1,2 @@
+C:\Users\Tomek\source\repos\bacon\Debug\bacon.exe
+C:\Users\Tomek\source\repos\bacon\Debug\bacon.pdb
