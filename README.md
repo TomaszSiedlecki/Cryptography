@@ -1,2 +1,2 @@
-# designpatterns
-Few design patterns in Java (lesson)
+# Design patterns
+Few design patterns in Java.

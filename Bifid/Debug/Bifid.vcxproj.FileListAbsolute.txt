@@ -1,0 +1,2 @@
+C:\Users\Tomek\source\repos\Bifid\Debug\Bifid.exe
+C:\Users\Tomek\source\repos\Bifid\Debug\Bifid.pdb

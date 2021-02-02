@@ -1,0 +1,4 @@
+﻿  Bifid.cpp
+C:\Users\Tomek\source\repos\Bifid\Bifid.cpp(17,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Tomek\source\repos\Bifid\Bifid.cpp(28,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Bifid.vcxproj -> C:\Users\Tomek\source\repos\Bifid\Debug\Bifid.exe
